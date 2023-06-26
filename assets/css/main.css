@@ -3935,3 +3935,6 @@ input, select, textarea {
 		align-items: center;
 		justify-content: center;
 	}
+	.made{
+		color: #ffffff;
+	}
